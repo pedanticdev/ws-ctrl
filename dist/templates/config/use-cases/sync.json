@@ -1,8 +1,0 @@
-{
-  "$schema": "https://raw.githubusercontent.com/CycriLabs/ws-ctrl/refs/heads/main/schemas/use-case.schema.json",
-  "id": "sync",
-  "name": "Sync use-case",
-  "description": "The sync use-case is called from the sync command",
-  "state": "HIDDEN",
-  "steps": []
-}

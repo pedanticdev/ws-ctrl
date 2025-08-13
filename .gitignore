@@ -33,7 +33,7 @@ yarn-error.log
 testem.log
 /typings
 /.npmrc
-
+dist
 # System Files
 .DS_Store
 Thumbs.db
